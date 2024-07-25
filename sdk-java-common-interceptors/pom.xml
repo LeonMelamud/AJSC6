@@ -45,7 +45,7 @@
 
 	<properties>
 		<sdk.java.spring.cloud.file>0.0.10</sdk.java.spring.cloud.file>
-		<sdk.java.introscope.interceptors>6.0.0.1</sdk.java.introscope.interceptors>
+		<sdk.java.introscope.interceptors>6.0.0.1-oss</sdk.java.introscope.interceptors>
 		<sdk.java.utility>6.2.0.5</sdk.java.utility>
 		<sdk.java.common.logging>0.0.3</sdk.java.common.logging>
 		<sdk.java.interceptor>6.2.0.4</sdk.java.interceptor>

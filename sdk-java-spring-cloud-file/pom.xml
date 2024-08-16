@@ -65,13 +65,13 @@
 	<developers>
 	   <developer>
 	     <name>Amit</name>
-	     <email></email>
+	     <email/>
 	     <organization>ATT</organization>
 	     <organizationUrl>www.att.com</organizationUrl>
 	   </developer>
 	   <developer>
 	     <name>Mohan</name>
-	     <email></email>
+	     <email/>
 	     <organization>ATT</organization>
 	     <organizationUrl>www.att.com</organizationUrl>
 	   </developer>
@@ -92,7 +92,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-config-client</artifactId>
-			<version>1.2.2.RELEASE</version>
+			<version>2.1.0.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
